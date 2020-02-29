@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="FCB">FCB</string>
+    <string name="club1_message">Club1 Scored a goal</string>
+    <string name="Club2_message">Club2 scored a goal</string>
+    <string name="Club_message">Club1 is the winner</string>
+    <string name="Clu_message">Club2 wins</string>
+    <string name="Cl_message">Its a draw game</string>
+</resources>
